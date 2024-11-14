@@ -1,2 +1,2 @@
-mod table;
-mod column;
+pub mod table;
+pub mod relationship;
